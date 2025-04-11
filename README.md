@@ -20,6 +20,9 @@ Supporting Students:
 
 
 
+
+
+
 How you’d support students struggling with concepts or deadlines.
 
 Explaining Gradient Descent Steps:
